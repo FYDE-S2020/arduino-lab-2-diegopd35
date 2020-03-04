@@ -1,8 +1,8 @@
-Name:
+Name: Diego Davila
 
-EID:
+EID: dpd633
 
-Team Number:
+Team Number: F6
 
 ## Questions
 
